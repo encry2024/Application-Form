@@ -1,0 +1,47 @@
+body {
+	margin:0;
+	padding:0;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	margin: 0;
+	background-size:contain;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	position:relative;
+	bottom:0px;
+	top:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	max-height:100%;
+	max-width:100%;
+	-webkit-font-smoothing: antialiased;
+	font-family:Trebuchet MS, Arial, 'Segoe UI', sans-serif;
+	font-size:1em;
+}
+
+.size-20 {
+	font-size: 20px;
+}
+
+.size-18 {
+	font-size: 18px;
+}
+
+.size-16 {
+	font-size: 16px;
+}
+
+.size-14 {
+	font-size: 14px;
+}
+
+.separator {
+	border-top-style: solid;
+	border-top-color: #ddd;
+	border-top-width: 1px;
+}
